@@ -1,0 +1,11 @@
+{
+  "name": "airtable-wavespeed",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
